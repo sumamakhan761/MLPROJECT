@@ -1,12 +1,12 @@
-# pandas
-# numpy
-# seaborn
-# ipykernel
-# matplotlib
-# scikit-learn
-# catboost
-# xgboost
-# Flask
-# dill
+pandas
+numpy
+seaborn
+ipykernel
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+dill
 gunicorn
 #-e .
