@@ -1,13 +1,13 @@
-pandas
-numpy
-seaborn
-ipykernel
-matplotlib
-scikit-learn
-catboost
-xgboost
-dill
-Flask
-gunicorn==20.1.0
+# pandas
+# numpy
+# seaborn
+# ipykernel
+# matplotlib
+# scikit-learn
+# catboost
+# xgboost
+# dill
+# Flask
+# gunicorn==20.1.0
 
 #-e .
